@@ -11,5 +11,5 @@ Write down 5 questions you have on databases and SQL (stay away from syntax at t
     2. How does one get the time difference between two date columns?
     3. Can one retrieve only rows X to Y from a table?
     4. How does one code a hierarchical tree-structured query?
-    5.  How does one select EVERY Nth row from a table?
+    5. How does one select EVERY Nth row from a table?
 */
